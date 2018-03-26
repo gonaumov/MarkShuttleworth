@@ -25,5 +25,5 @@ This is Mark picture on board the International Space Station:
 
 ![Shuttleworth on board the International Space Station](mark.png)
 
-You can readk more about Mark here:
+You can read more about Mark here:
 http://www.markshuttleworth.com/
