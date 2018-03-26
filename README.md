@@ -18,7 +18,7 @@ the voyage. Two days later, the Soyuz spacecraft arrived at the International Sp
 * :boom: On 5 May 2002, he returned to Earth on Soyuz TM-33. In order to participate in the flight, Shuttleworth had to 
  undergo one year of training and preparation, including seven months spent in Star City, Russia.
  While in space he had a radio conversation with Nelson Mandela and a 14-year-old South African girl, Michelle Foster, who asked him to marry her. He politely 
- dodged the question, stating that he was "very honored at the question" before changing the subject  This is picture on Mark on on board the International Space Station. 
+ dodged the question, stating that he was "very honored at the question" before changing the subject.  
 * :boom: In March 2004 he formed Canonical Ltd., for the promotion and commercial support of free software projects, especially the Ubuntu operating system.
 
 This is Mark picture on board the International Space Station:
